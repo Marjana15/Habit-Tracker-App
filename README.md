@@ -297,8 +297,8 @@ A comprehensive **Flutter-based habit tracking application** designed to help us
 ## 🛠️ Technical Stack
 
 ### **Frontend**
-- **Flutter 3.8.1** - UI Framework
-- **Dart 3.8.1** - Programming Language
+- **Flutter 3.8.0** - UI Framework
+- **Dart 3.8.0** - Programming Language
 - **Material Design 3** - Design System
 - **Flutter Animate 4.3.0** - Advanced Animations
 - **Provider 6.1.1** - State Management
@@ -326,8 +326,8 @@ A comprehensive **Flutter-based habit tracking application** designed to help us
 ## 🚀 Getting Started
 
 ### **Prerequisites**
-- Flutter SDK 3.8.1 or higher
-- Dart SDK 3.8.1 or higher  
+- Flutter SDK 3.8.0 or higher
+- Dart SDK 3.8.0 or higher  
 - Android Studio / VS Code with Flutter extensions
 - Firebase project with Authentication and Firestore enabled
 
